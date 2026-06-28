@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm kushal</h1>
 <h3 align="center">A CS - undergrad student who loves Machine Learning and watching movies</h3>
 
+
+
 ### Connect with me
 
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/kushal-sw) [<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/kushal._.2007)
-
+[<img src="https://img.shields.io/badge/Portfolio-102216?style=for-the-badge&logo=vercel&logoColor=11d452"/>](https://www.kushalsw.dev/) [<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/kushal-sw) [<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/kushal._.2007)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kushal-sw&color=11d452&style=for-the-badge" alt="Visitor Badge" />
 </p>
